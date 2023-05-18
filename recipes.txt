@@ -5,6 +5,9 @@ kheer
 paneer
 chicken fry
 
+beans 
+pizza
+
 Thank you!
 
 come back!
